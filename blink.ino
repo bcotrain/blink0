@@ -4,7 +4,7 @@
  
   This example code is in the public domain.
 
-  Issue 53 fixer-upper
+  Issue 53 fixer-upper, the best fix ever!
  */
  
 // Pin 13 has an LED connected on most Arduino boards.
